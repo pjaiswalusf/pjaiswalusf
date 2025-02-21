@@ -36,7 +36,7 @@ I am passionate about technology and innovation, constantly seeking new ways to 
 ### [DEAL - A Full-Stack E-Commerce Platform](https://github.com/pjaiswalusf/DEAL---A-Full-Stack-E-Commerce-Platform)
 A full-stack e-commerce platform inspired by TEMU, built with Next.js, React, Prisma, and Stripe. Features include authentication, product browsing, persistent cart, secure payments, and a gamified Spin the Wheel.
 
-### [Emotional Facial Recognition](https://github.com/pjaiswalusf/Emotional-Facial-Recognition)
+### [Emotional Facial Recognition](https://github.com/pjaiswalusf/Emotional-Facial-Recognition-)
 A deep learning-based Emotion Recognition System utilizing Transfer Learning with ResNet50 as the base model. It classifies facial expressions into 8 emotion categories, including happiness, sadness, anger, surprise, fear, contempt, disgust, and neutrality.
 
 ### [Amazon USA Sales Analysis Project using SQL](https://github.com/pjaiswalusf/Amazon-USA-Sales-Analysis-Project-using-SQL)
